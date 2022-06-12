@@ -1,7 +1,7 @@
 <h3>Ola! eu sou o Marcos Quintino 👋</h3>
 <div align="center" >
   <a href="https://github.com/MarcosQuintino0">
-  <img height="130px "  src="https://github-readme-stats.vercel.app/api?username=MarcosQuintino0&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="140px "  src="https://github-readme-stats.vercel.app/api?username=MarcosQuintino0&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosQuintino0&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
