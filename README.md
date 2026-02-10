@@ -47,15 +47,14 @@
 
 ---
 
-## Projetos em destaque
-> Repositórios focados em QA, automação e qualidade
+## Projetos
 
 - 🔥 **Automação Cypress (UI + API)** — framework de testes E2E e APIs com boas práticas
 - 🔥 **Pipelines CI/CD QA** — execução automatizada, artefatos e paralelismo
 - 🔥 **Segurança / OWASP** — validações de vulnerabilidades e hardening de inputs
 
 <details>
-  <summary><b>Background em desenvolvimento (opcional)</b></summary>
+  <summary><b>Background em desenvolvimento </b></summary>
 
 Java • Spring • Angular • HTML • CSS
 
