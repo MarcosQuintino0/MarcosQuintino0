@@ -1,37 +1,89 @@
-<h3>Ola! eu sou o Marcos Quintino 👋</h3>
-<div style="display: inline_block"><br>
-  <div>
-  <img align="center" alt="marquin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="marquin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="marquin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="marquin-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="marquin-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="marquin-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="marquin-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="marquin-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="marquin-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
-  </div><br><br>
+<!-- README.md (GitHub Profile) -->
 
-</div> 
-  <p align="left">
-  <a href="mailto:marcosquintinodev@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+<h1 align="left">Marcos Quintino 👋</h1>
+
+<p align="left">
+  QA Engineer / SDET • Automação (UI + API) • Qualidade + Segurança<br/>
+  <b>Stacks:</b> Cypress • TypeScript/JavaScript • Docker • Python • Oracle • OWASP
+</p>
+
+<p align="left">
+  <a href="mailto:marcosquintinodev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-marcosquintinodev%40gmail.com-111?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/marcos-quintino-32447a287/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/marcos-quintino-32447a287/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcos%20Quintino-111?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5547991533768" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://api.whatsapp.com/send?phone=5547991533768">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Contato-111?style=flat&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
-<h2 align="center"><u>My Best Works</u></h2>
+---
 
-| Name                                                                                        | Description                                                |
-| ---------------------------------------------------------------------------------------|---------------------------------------------------------------- |
-| _[CodeFlow](https://github.com/MarcosQuintino0/codeflow)_                              | Uma plataforma colaborativa inspirada no Stack Overflow, construída com Angular, para solucionar dúvidas de programação.             |
-| _[ChessSistem](https://github.com/MarcosQuintino0/chessSistem-java)_                   | Um clássico jogo de xadrez desenvolvido em Java, para ser jogado diretamente do console.     |
-| _[SpringBoot-MongoDB](https://github.com/MarcosQuintino0/workshop-spring-boot-mongodb)_| Uma API  utilizando Spring Boot, integrada com MongoDB.             |
-| _[Springboot3-JPA](https://github.com/MarcosQuintino0/workshop-springboot3-jpa)_       | API REST desenvolvida em Java com JPA.                                    |
-| _[JavaFx-Jdbc](https://github.com/MarcosQuintino0/worshop-javafx-jdbc)_                |Sistema de gerenciamento de departamentos, construído em JavaFX e integrado com JDBC                |
+### Sobre mim
+- Atuo com **automação de testes** (UI e API), **CI/CD** e **qualidade orientada a risco**
+- Curto bastante **observabilidade**, **testes confiáveis**, **padrões de framework** e **segurança (OWASP)**  
+- Back-end/ambiente: **Oracle (SQL/PLSQL)**, integrações e validações em banco
+
+---
+
+### O que eu faço no dia a dia (QA)
+- ✅ Testes automatizados: **Cypress**, contratos de API, validações de schema, cenários críticos
+- ✅ Pipelines: **Docker**, jobs em CI, artefatos, execução paralela, ambientes
+- ✅ Qualidade + Segurança: **OWASP Top 10**, testes de vulnerabilidade, hardening de fluxos e inputs
+
+---
+
+### Tech Stack (foco atual)
+<p align="left">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-111?style=flat&logo=cypress&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111?style=flat&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-111?style=flat&logo=postman&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-111?style=flat&logo=gitlab&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-111?style=flat&logo=oracle&logoColor=white" />
+  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-111?style=flat&logo=owasp&logoColor=white" />
+</p>
+
+<details>
+  <summary><b>Background (opcional)</b></summary>
+
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-111?style=flat&logo=spring&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-111?style=flat&logo=angular&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111?style=flat&logo=css3&logoColor=white" />
+</p>
+
+</details>
+
+---
+
+### Projetos em destaque
+> Se você tiver repositórios de QA (framework, pipelines, utilitários, exemplos), coloque aqui em cima.
+- 🔥 **(Coloque aqui seu repo de automação Cypress/API)** — descrição curta do que ele resolve  
+- 🔥 **(Coloque aqui seu repo de segurança/OWASP/ZAP, se tiver)** — descrição curta e objetiva  
+
+<details>
+  <summary><b>Projetos antigos (dev) — ainda úteis como background</b></summary>
+
+| Projeto | O que é |
+|---|---|
+| [CodeFlow](https://github.com/MarcosQuintino0/codeflow) | Plataforma colaborativa inspirada no Stack Overflow (Angular) |
+| [ChessSistem](https://github.com/MarcosQuintino0/chessSistem-java) | Jogo de xadrez em Java (console) |
+| [SpringBoot-MongoDB](https://github.com/MarcosQuintino0/workshop-spring-boot-mongodb) | API com Spring Boot + MongoDB |
+| [Springboot3-JPA](https://github.com/MarcosQuintino0/workshop-springboot3-jpa) | API REST com Java + JPA |
+| [JavaFx-Jdbc](https://github.com/MarcosQuintino0/worshop-javafx-jdbc) | Sistema em JavaFX com JDBC |
+</details>
+
+---
+
+### GitHub Stats (opcional e limpo)
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarcosQuintino0&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosQuintino0&layout=compact&hide_border=true&theme=transparent" />
+</p>
