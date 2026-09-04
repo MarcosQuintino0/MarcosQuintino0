@@ -40,11 +40,9 @@ Plataforma de testes para uma aplicação distribuída de reservas, cobrindo **A
 | :---: | :---: | :---: | :---: |
 | **30 automatizados** | **6 encontrados** | **15 segundos** | **3 execuções sem retry** |
 
-<a href="https://github.com/MarcosQuintino0/quality-engineering-platform-rbp">
-  <img alt="Demonstração da jornada automatizada de reserva" src="https://raw.githubusercontent.com/MarcosQuintino0/quality-engineering-platform-rbp/main/docs/assets/gifs/jornada-de-reserva.gif" width="100%">
-</a>
-
 **Destaques técnicos:** Playwright • TypeScript estrito • Ajv • axe-core • JDBC somente leitura • k6 • Docker Compose • GitHub Actions • Allure
+
+**Evidências:** [relatório Allure ao vivo](https://marcosquintino0.github.io/quality-engineering-platform-rbp/) • [execuções no GitHub Actions](https://github.com/MarcosQuintino0/quality-engineering-platform-rbp/actions) • [documentação técnica](https://github.com/MarcosQuintino0/quality-engineering-platform-rbp/tree/main/docs)
 
 ### DAST Pipeline — Cypress + OWASP ZAP
 
@@ -57,11 +55,9 @@ Pipeline que transforma o tráfego produzido pelos testes Cypress em um mapa de 
 | :---: | :---: | :---: | :---: |
 | **19 Cypress** | **44 unitários** | **17 endpoints** | **2 alertas altos** |
 
-<a href="https://github.com/MarcosQuintino0/dast-pipeline-cypress-zap">
-  <img alt="Execução completa do pipeline DAST" src="https://raw.githubusercontent.com/MarcosQuintino0/dast-pipeline-cypress-zap/main/docs/assets/pipeline.gif" width="100%">
-</a>
-
 **Destaques técnicos:** Cypress • JavaScript • Python • OWASP ZAP • HAR • Docker Compose • GitHub Actions • pytest
+
+**Evidências:** [execuções no GitHub Actions](https://github.com/MarcosQuintino0/dast-pipeline-cypress-zap/actions) • [triagem dos alertas](https://github.com/MarcosQuintino0/dast-pipeline-cypress-zap/blob/main/docs/triagem-dos-achados.md) • [README completo](https://github.com/MarcosQuintino0/dast-pipeline-cypress-zap)
 
 ## Competências principais
 
